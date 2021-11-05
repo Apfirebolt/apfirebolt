@@ -1,15 +1,11 @@
-[![Header](https://raw.githubusercontent.com/devmahmud/devmahmud/master/readme_header.png "Header")](http://apgiiit.com/)
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/devmahmud/devmahmud/master/wave.gif" width="30px">
-
 My name is Amit Prafulla and I'm a software developer. I'm from India, living in New Delhi and currently working as a Full-time Software Engineer at Mudrantar Solutions Pvt Limited. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, Django, Django REST
-- 🌱 <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms
-- 🤔 <b>Exploring:</b> React Native
-- ⚗️ <b>Experimenting on:</b> Automated Resume Parsing
+- 🔭 <b>Currently working on:</b> Vue JS, React.js, Express JS, Node, Django, Django REST
+- 🌱 <b>Getting better at:</b> Python, Javascript, Data Structure & Algorithms
+- 🤔 <b>Exploring:</b> Docker, Kubernetes and AWS
+- ⚗️ <b>Experimenting on:</b> AWS and other DevOops stuff
 - 💬 <b>Ask me about:</b> Python, Javascript
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:aspper20@gmail.com" target="_blank">aspper20@gmail.com</a>
 
@@ -17,13 +13,13 @@ My name is Amit Prafulla and I'm a software developer. I'm from India, living in
 
 ```json
 {
-  "languages": ["Python", "Javascript"],
+  "languages": ["Python", "Javascript", "Typescript", "PHP"],
   "frameworks/libraries": {
-    "backend": ["Django", "Django Rest Framework"],
-    "frontend": ["React.js", "Boostrap", "Material UI", "Jquery"],
+    "backend": ["Django", "Django Rest Framework", "Express", "Hapi"],
+    "frontend": ["Vue.js","React.js", "TailwindCSS", "Boostrap", "Material UI", "Jquery"],
     "others": ["HTML5", "CSS3"]
   },
-  "database": ["Mysql", "PostgreSQL"],
+  "database": ["Mysql", "PostgreSQL", "MongoDB"],
   "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
   "tools": ["Visual Studio Code", "Pycharm"]
 }
@@ -48,18 +44,10 @@ My name is Amit Prafulla and I'm a software developer. I'm from India, living in
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/apfirebolt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmahmud&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfirebolt&hide=dockerfile,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/apfirebolt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devmahmud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahmudul's GitHub Stats" />
-</a>
-
-<a href="https://github.com/devmahmud/Django-Poll-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=Django-Poll-App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/devmahmud/DevConnector-Django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devmahmud&repo=DevConnector-Django&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apfirebolt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Apfirebolt's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
