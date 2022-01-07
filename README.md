@@ -1,4 +1,4 @@
-My name is Amit Prafulla and I'm a software developer. I'm from India, living in New Delhi and currently working as a Full-time Software Engineer at Mudrantar Solutions Pvt Limited. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Amit Prafulla and I'm a software developer. I'm from India, living in New Delhi and currently working as a Full-time Senior Software Engineer at Mercedes Benz Research And Development India. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ### Things you should know
 
