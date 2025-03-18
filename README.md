@@ -13,8 +13,9 @@ My name is Amit Prafulla and I'm a software developer. I'm from India, living in
 
 | Title       | Technologies                        | Description                                      | Link                                      |
 |-------------|-------------------------------------|--------------------------------------------------|-------------------------------------------|
+| Quora clone in Django and Vue | Django, Vue, Tailwind CSS, Postgres, Docker | A Quora clone with most important features of Quora like questions, answers and following other users 🚀 | [GitHub](https://github.com/Apfirebolt/quora_clone_vue_and_django) |
 | Vue Crypto Info | Vue JS, Node, Tailwind CSS, Pinia               | A web application built with Vue JS and Tailwind CSS which shows crypto currency related info from API.  | [GitHub](https://github.com/Apfirebolt/vue-crypto-info) |
-| React Games Database | React.js, Material UI, Vercel       | Application which shows game related data from softgenie API.  | [GitHub](hhttps://github.com/Apfirebolt/React-games-database) |
+| React Games Database | React.js, Material UI, Vercel       | Application which shows game related data from softgenie API.  | [GitHub](https://github.com/Apfirebolt/React-games-database) |
 | React PokeAPI App | React, Redux, Redux-toolkit, Tailwind CSS         | Application which shows pokemon data from PokeAPI including pokemon, moves and items.    | [GitHub](https://github.com/Apfirebolt/react_pokeapi_app) |
 | Anime Dashboard | Vue, Tailwind, Docker, Headless UI           | Web App which shows anime related data from Jikan API         | [GitHub](https://github.com/apfirebolt/anime-dashboard-vue) |
 | React Harry Potter | React.js, Typescript, Zustand, Tailwind, React-Spring | A web application to explore Harry Potter characters | [GitHub](https://github.com/Apfirebolt/react_harry_potter) |
@@ -23,6 +24,7 @@ My name is Amit Prafulla and I'm a software developer. I'm from India, living in
 | Vue Cocktails App | Vue.js | A web application to find cocktail recipes | [GitHub](https://github.com/apfirebolt/project-nine) |
 | Vue Github Finder | Vue.js, Docker, Nginx, Headless UI, Tailwind CSS | A web application to search GitHub users using the Github API 🚀 | [GitHub](https://github.com/Apfirebolt/vue-github-finder) |
 | React Star Wars | React, Typescript, Headless UI, Tailwind CSS, Docker | A Web app which integrates with Star Wars API to show Star war franchise data including rockets, movies, planets and more  🚀 | [GitHub](https://github.com/Apfirebolt/react-starwars-api) |
+| Gmail Clone | Vue, Express, Tailwind CSS, MongoDB | A Gmail clone which mimics some Gmail features like sending emails, sorting and handling attachments 🚀 | [GitHub](https://github.com/Apfirebolt/A-gmail-clone-in-mevn-stack) |
 
 ### My Stacks
 
