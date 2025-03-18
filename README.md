@@ -13,10 +13,16 @@ My name is Amit Prafulla and I'm a software developer. I'm from India, living in
 
 | Title       | Technologies                        | Description                                      | Link                                      |
 |-------------|-------------------------------------|--------------------------------------------------|-------------------------------------------|
-| Project One | Vue JS, Node, Express               | A web application built with Vue JS and Node.js  | [GitHub](https://github.com/apfirebolt/project-one) |
-| Project Two | React.js, Django, Django REST       | A full-stack project using React and Django REST | [GitHub](https://github.com/apfirebolt/project-two) |
-| Project Three | Python, Flask, PostgreSQL         | A REST API service using Flask and PostgreSQL    | [GitHub](https://github.com/apfirebolt/project-three) |
-| Project Four | Docker, Kubernetes, AWS            | A microservices project deployed on AWS          | [GitHub](https://github.com/apfirebolt/project-four) |
+| Vue Crypto Info | Vue JS, Node, Tailwind CSS, Pinia               | A web application built with Vue JS and Tailwind CSS which shows crypto currency related info from API.  | [GitHub](https://github.com/Apfirebolt/vue-crypto-info) |
+| React Games Database | React.js, Material UI, Vercel       | Application which shows game related data from softgenie API.  | [GitHub](hhttps://github.com/Apfirebolt/React-games-database) |
+| React PokeAPI App | React, Redux, Redux-toolkit, Tailwind CSS         | Application which shows pokemon data from PokeAPI including pokemon, moves and items.    | [GitHub](https://github.com/Apfirebolt/react_pokeapi_app) |
+| Anime Dashboard | Vue, Tailwind, Docker, Headless UI           | Web App which shows anime related data from Jikan API         | [GitHub](https://github.com/apfirebolt/anime-dashboard-vue) |
+| React Harry Potter | React.js, Typescript, Zustand, Tailwind, React-Spring | A web application to explore Harry Potter characters | [GitHub](https://github.com/Apfirebolt/react_harry_potter) |
+| Next Books | Next.js, Tailwind, Framer-Motion | A Books database application created using Next JS, Tailwind CSS and Framer Motion 🚀 | [GitHub](https://github.com/apfirebolt/next_books) |
+| Next Games | Next.js, Node, Tailwind, Headless UI, Redux, Redux-toolkit | A Web app to show games related data with Next.js from this [API](https://softgenie.org/api/games) | [GitHub](https://github.com/apfirebolt/project-seven)
+| Vue Cocktails App | Vue.js | A web application to find cocktail recipes | [GitHub](https://github.com/apfirebolt/project-nine) |
+| Vue Github Finder | Vue.js, Docker, Nginx, Headless UI, Tailwind CSS | A web application to search GitHub users using the Github API 🚀 | [GitHub](https://github.com/Apfirebolt/vue-github-finder) |
+| React Star Wars | React, Typescript, Headless UI, Tailwind CSS, Docker | A Web app which integrates with Star Wars API to show Star war franchise data including rockets, movies, planets and more  🚀 | [GitHub](https://github.com/Apfirebolt/react-starwars-api) |
 
 ### My Stacks
 
